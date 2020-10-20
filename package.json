@@ -30,7 +30,9 @@
     "moment": "^2.22.2",
     "rxjs": "6.5.4",
     "tslib": "^2.0.0",
-    "zone.js": "~0.10.3"
+    "zone.js": "~0.10.3",
+    "json-server": "^0.16.2",
+    "jsonplaceholder": "^0.3.3"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1000.0",
